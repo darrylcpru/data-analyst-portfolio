@@ -9,3 +9,8 @@
 * **Goal:** Built an interactive dashboard visualizing regional sales trends and dominant gaming genres.
 * **Tools Used:** Tableau Public
 * **Live Dashboard:** https://public.tableau.com/app/profile/darryl.prunty6442/viz/GlobalVideoGameSalesAnalysis_17872519831340/Dashboard1
+## Project 3: US National Parks Density Analysis (SQL & Tableau)
+* **Goal:** Analyzed geographic data to calculate an eco-tourism density metric (Visitors per Acre) across US National Parks.
+* **Tools Used:** Google BigQuery Sandbox, SQL, Tableau Public Map Visualizations
+* **Code:** The cleaning and custom metric script is located in `parks_query.sql`.
+* **Live Dashboard:** https://public.tableau.com/app/profile/darryl.prunty6442/viz/USNationalParksAttendanceDensityAnalysis/Dashboard1
