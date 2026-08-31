@@ -22,3 +22,9 @@
 * **Tools Used:** Google BigQuery Sandbox, SQL CTEs, Window Functions (`FIRST_VALUE`), Tableau Public
 * **Code & Scripts:** The full SQL cohort aggregation script is available in `ecommerce_cohort_query.sql`.
 * **Live Interactive Heatmap:** https://public.tableau.com/app/profile/darryl.prunty6442/viz/E-CommerceCustomerLifecycleCohortRetentionAnalysis/CustomerCohortRetentionMatrix
+## Project 5: Credit Risk Stratification & Portfolio Analytics (SQL & Tableau)
+* **Goal:** Engineered an underwriting risk framework by processing credit risk applications to identify portfolio exposure and calculate multi-level default probabilities.
+* **Ingestion Engineering:** Overrode BigQuery's auto-detect parsing engine by explicitly defining a textual database schema definition to handle malformed raw strings. Resolved a strict type-casting operator mismatch within the conditional `CASE WHEN` logic by wrapping data elements in an explicit string conversion container.
+* **Tools Used:** Google BigQuery Sandbox, SQL Conditional Logic (`CASE WHEN`), Type Conversion, Tableau Public
+* **Code & Scripts:** The full SQL validation and segment aggregation script is saved in `credit_risk_query.sql`.
+* **Live Predictive Risk Dashboard:** https://public.tableau.com/app/profile/darryl.prunty6442/viz/BankLoanUnderwritingPredictiveRiskAnalysis/PortfolioRiskBreakdown#1
