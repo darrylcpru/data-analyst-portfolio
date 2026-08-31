@@ -1,0 +1,4 @@
+debt_strain_tier,credit_history_profile,total_loan_applications,default_rate_percentage
+High Strain (40%),Clean Credit Record,1335,73.63
+Moderate Strain (20-39%),Clean Credit Record,9767,33.23
+Low Strain (0-19%),Clean Credit Record,21479,13.4
